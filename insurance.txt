@@ -1,0 +1,6 @@
+Insurance status of employees
+
+Insured
+Insured
+Not Insured
+Insured
